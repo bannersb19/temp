@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["css/style.css"],"sourcesContent":["* {\r\n    padding: 0;\r\n    margin: 0;\r\n}\r\n\r\nimg {\r\n    height: 100%;\r\n    width: 100%;\r\n}"],"names":[],"version":3,"file":"index.b2625c6b.css.map","sourceRoot":"/__parcel_source_root/"}

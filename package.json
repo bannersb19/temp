@@ -1,0 +1,20 @@
+{
+    "name": "temp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "parcel index.html --open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gsap": "^3.11.4",
+        "parcel": "^2.8.3"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.8.3"
+    }
+}
